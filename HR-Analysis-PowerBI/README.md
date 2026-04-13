@@ -13,4 +13,4 @@ Analyze employee data to understand attrition and hiring trends.
 - Hiring trends
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
