@@ -5,6 +5,8 @@ Analyze sales performance and trends.
 
 ## Tools Used
 - Excel
+- Pivot Tables
+- Charts
 
 ## Features
 - KPI metrics
