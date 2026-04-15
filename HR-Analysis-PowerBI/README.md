@@ -12,7 +12,7 @@ Analyze employee data to understand attrition and hiring trends.
 - Attrition analysis
 - Hiring trends
   
-## 📈 Insights
+## Insights
 - Higher attrition observed in specific departments
 - Majority of employees fall within a particular age group
 - Certain job roles show higher turnover trends
