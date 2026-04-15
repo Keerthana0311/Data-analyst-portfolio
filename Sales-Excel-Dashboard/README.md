@@ -1,4 +1,4 @@
-# Sales Dashboard (Excel)
+# Retail Sales Analysis Dashboard (Excel)
 
 ## Objective
 Analyze sales performance and trends.
@@ -11,7 +11,7 @@ Analyze sales performance and trends.
 - Monthly sales trends
 - Product performance analysis
 
- ## 📈 Insights
+ ## Insights
 - Sales performance peaked during certain months
 - A few product categories contributed the highest revenue
 - Regional analysis shows variation in sales performance
