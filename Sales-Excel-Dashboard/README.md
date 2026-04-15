@@ -11,10 +11,10 @@ Analyze sales performance and trends.
 - Monthly sales trends
 - Product performance analysis
 
- ## Insights
-- Sales performance peaked during certain months
-- A few product categories contributed the highest revenue
-- Regional analysis shows variation in sales performance
+## Insights
+- Sales performance peaked in the last quarter (Q4)
+- Technology and Office Supplies contributed the highest revenue
+- West region showed higher sales compared to other regions
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
