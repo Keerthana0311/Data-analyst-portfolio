@@ -11,5 +11,10 @@ Analyze sales performance and trends.
 - Monthly sales trends
 - Product performance analysis
 
+ ## 📈 Insights
+- Sales performance peaked during certain months
+- A few product categories contributed the highest revenue
+- Regional analysis shows variation in sales performance
+
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
