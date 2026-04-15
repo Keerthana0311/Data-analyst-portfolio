@@ -1,4 +1,7 @@
-# 👩‍💻 Keerthana R – Data Analyst Portfolio
+# 👩‍💻 Keerthana R – Data Analyst Portfolio## 📌 About Me
+Aspiring Data Analyst with strong skills in Excel, Power BI, SQL, and Tableau. 
+Experienced in building interactive dashboards and analyzing data to generate meaningful insights. 
+Passionate about solving business problems using data-driven approaches.
 
 ## 📊 Projects
 
