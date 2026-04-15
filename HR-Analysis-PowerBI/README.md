@@ -11,6 +11,11 @@ Analyze employee data to understand attrition and hiring trends.
 - KPI metrics
 - Attrition analysis
 - Hiring trends
+  
+## 📈 Insights
+- Higher attrition observed in specific departments
+- Majority of employees fall within a particular age group
+- Certain job roles show higher turnover trends
 
 ## Dashboard Preview
 ![Dashboard](dashboard1.png)
